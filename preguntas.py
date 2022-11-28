@@ -4,7 +4,7 @@ Clasificación usando k-NN
 
 
 """
-import pandas as pds
+import pandas as pd
 
 
 def pregunta_01():
